@@ -1,0 +1,35 @@
+RF001: O sistema deve fornecer recomendações de cursos relevantes com base nas pesquisas recentes do usuário, levando em consideração os tópicos de interesse identificados.
+
+RF002: O sistema deve permitir que o usuário realize pesquisas sucessivas no mesmo contexto, mantendo a interatividade entre as solicitações e fornecendo resultados relevantes para cada pesquisa.
+
+RF003: O sistema deve ser capaz de buscar, explicar e detalhar o funcionamento e a lógica de códigos fornecidos pelo usuário, permitindo a compreensão de códigos de autoria externa.
+
+RF004: O sistema deve sugerir melhorias para o código fornecido pelo usuário, com o objetivo de aprimorar os projetos pessoais de programação.
+
+RF005: O sistema deve fornecer informações específicas sobre a correção de bugs, permitindo que o usuário resolva problemas de forma eficiente e economize tempo.
+
+RF006: O sistema deve apresentar recomendações de conteúdo educacional em uma seção separada, facilitando o acesso e evitando confusões e distrações desnecessárias.
+
+RF007: O sistema deve permitir que o usuário consulte erros em seus códigos e tire dúvidas de forma interativa, sem envolver outras pessoas.
+
+RF008: O sistema deve oferecer acesso a fóruns e comunidades de programação, permitindo ao usuário interagir, conversar e obter respostas para problemas específicos.
+
+RF009: O sistema não deve salvar os códigos compartilhados pelos programadores seniores, a fim de evitar vazamento de dados sensíveis.
+
+RF010: O sistema deve fornecer explicações teóricas detalhadas sobre bugs, permitindo que os programadores juniores compreendam a origem e as soluções para esses problemas.
+
+RF011: O sistema deve oferecer acesso a conteúdos base relacionados ao assunto pesquisado pelo programador pleno, proporcionando uma variedade de opções para melhor compreensão de seu questionamento.
+
+RF012: O sistema deve permitir a busca de soluções por nível de relevância, para que os programadores sêniores possam resolver problemas com maior precisão e otimização de tempo.
+
+RF013: O sistema deve oferecer a possibilidade de filtrar soluções por linguagens de programação, permitindo que os programadores sêniores encontrem soluções específicas para suas linguagens de preferência, economizando tempo na resolução de problemas.
+
+RF014: O sistema deve permitir que os programadores sêniores busquem resoluções para problemas relacionados ao trabalho, visando otimizar o desempenho e a eficiência.
+
+RF015: O sistema deve fornecer vídeo aulas explicativas e intuitivas para os estudantes de programação, oferecendo um ambiente seguro para aprendizado.
+
+RF016: O sistema deve apresentar informações relevantes sobre bugs, explicando sua origem e impactos, de forma a auxiliar os programadores juniores na solução efetiva dos problemas, evitando soluções paliativas.
+
+RF017: O sistema deve ser capaz de recomendar conteúdo acessível com base no nível técnico do usuário iniciante, permitindo uma melhor compreensão dos conteúdos de acordo com o seu nível de habilidade.
+
+RF018: O sistema deve oferecer recomendações de conteúdo em PDF, como livros, para os programadores juniores, facilitando o acesso e o download dos materiais recomendados de forma fácil e rápida.
